@@ -44,6 +44,8 @@ Niemand „gewinnt“ moralisch – die Pointe liegt im Verhalten.
 Die Serie nutzt **wiederkehrende Figuren**, aber ohne klassische Charakterentwicklung oder Biografien.  
 Figuren sind Träger von Haltungen, Routinen und Argumentationsmustern.
 
+[Gruppen und Charactere](characters/README.md)
+
 ### Das Maskottchen
 
 Ein zentrales wiederkehrendes Element ist ein **stummes, austauschbares Maskottchen**:
