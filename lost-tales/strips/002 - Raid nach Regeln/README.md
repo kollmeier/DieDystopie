@@ -1,4 +1,6 @@
-# Strip 001
+# Strip 002
+
+![Strip](strip-002.tiff)
 
 ## Titel
 Raid nach Regeln
