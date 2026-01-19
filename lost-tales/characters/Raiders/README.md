@@ -8,3 +8,6 @@ Die Raider sind Gruppierungen an der Oberfläche, die davon leben Bunker zu übe
 
 - [Spikes](spikes/README.md)
 - [Preacher](preacher/README.md)
+- [Hardrock](hardrock/README.md)
+- [Tank](tank/README.md)
+- [Gordon](gordon/README.md)
