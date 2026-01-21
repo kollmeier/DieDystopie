@@ -9,7 +9,7 @@ Spikes ist ein Raider, nicht der allerhellste,eher der Kämpfertyp. Der Name lei
 
 |      | links | mitte | rechts |
 |-:|:-:|:-:|:-:|
-|vorne |<img src="./_sample-character.png" width="100" height="100">|<img src="./_sample-character.png" width="100" height="100">|<img src="./_sample-character.png" width="100" height="100">|
+|vorne |<img src="./spikes_fl.png" width="150" height="100">|<img src="./spikes_fm.png" width="150" height="100">|<img src="./_sample-character.png" width="100" height="100">|
 |mitte |<img src="./_sample-character.png" width="100" height="100">|<img src="./_sample-character.png" width="100" height="100">|<img src="./_sample-character.png" width="100" height="100">|
 |hinten|<img src="./_sample-character.png" width="100" height="100">|<img src="./_sample-character.png" width="100" height="100">|<img src="./_sample-character.png" width="100" height="100">|
 
