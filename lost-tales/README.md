@@ -99,7 +99,7 @@ Eine detaillierte Abgrenzung findet sich in `LORE-GUARD.md`.
   Thematische Klammern und Kontinuitäten.
 
 - `IDEAS.md`  
-  Lose, ungefilterte Ideen.
+  Redaktioneller Ideenpool mit Status A (sofortige Umsetzung), B (spätere Umsetzung) und C (Wiedervorlage). Arbeitsstände, keine automatische Kanonfreigabe.
 
 —
 

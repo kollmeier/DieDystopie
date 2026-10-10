@@ -36,6 +36,16 @@ Das **stumme Maskottchen** ist ein austauschbares, passives Systemartefakt: Es s
 - **Strip 003:** Die README beschreibt die zweite Aussage als sinngemäße Wiederholung und erläutert eine wiederholte Selbstbestätigung; `DIALOGS.md` betont die bewusste Wortumkehr als pointenrelevant. Das Verhältnis dieser Beschreibungen bleibt offen.
 - **Visuelle Eigenständigkeit:** Die blau-gelbe Kleidung in `characters/Bunker 9, Block 2/README.md` und die fremdwerkbezogene Anspielung in `characters/Raiders/tank/README.md` sind anhand von `RULES.md` (§ 6) und `LORE-GUARD.md` (§§ 3, 6) zu prüfen. Daraus folgt hier keine Kanonentscheidung.
 
+## Ideenpool und nächste Entwürfe
+
+`IDEAS.md` enthält redaktionelle Arbeitsstände, keine automatische Kanonfreigabe. **A** bedeutet zur sofortigen Umsetzung, **B** spätere Umsetzung beziehungsweise gezielte Klärung, **C** Wiedervorlage mit noch offener Pointe oder Dramaturgie. Vor der Ausarbeitung den vollständigen Eintrag und die verbindlichen Projektregeln lesen.
+
+- **A001 – Die KI weiß es besser**, **A002 – Das Update / Die überflüssige Warnung** und **A003 – Naturschutzgebiet: Die Wege** sind redaktionell zur Umsetzung eingeordnet. A002 endet ausschließlich mit dem Zähler ausgefallener Lebenserhaltungssysteme; A003 zeigt ein altes Schild ohne Maskottchen und eine Landschaft ohne erkennbare Wege.
+- **B001 – Der letzte Überlebende / Die Stichwahl** braucht noch eine nachvollziehbare interne Wahlregel. **B002 – Naturschutzgebiet: Das Rebranding** zeigt ein neues Schild mit passivem Maskottchen; großer Publikationsabstand zu A003 ist vorgesehen.
+- **C001 – Der Schlussverkauf**, **C002 – Die Schutzgebühr** und **C003 – Der Weltuntergangstag** brauchen stärkere Schlusswendungen. KI-Folgegags zu A001 bleiben ohne eigene ID, bis sie eine eigenständige Pointe haben.
+
+A-/B-IDs bleiben bei Statuswechseln erhalten und werden nicht wiederverwendet. C-IDs sind vorläufig: Bei Übernahme erhält die Idee die nächste freie ID der Zielkategorie; die alte C-ID wird nicht weiter als Referenz verwendet. Maßgeblich für Details und spätere Statusänderungen ist `IDEAS.md`.
+
 ## Redaktionelle Vorsicht
 
 Diese Zusammenfassung ist eine Orientierung, kein Ersatz für die Quelldateien. Vor der Arbeit an einem konkreten Strip dessen README und Dialogdateien lesen. Bei Konflikten nichts eigenmächtig harmonisieren, sondern eine offene Frage formulieren. Neue Fakten, Kanonänderungen und Figurenmerkmale dürfen nicht aus dieser Kurzfassung abgeleitet werden.
@@ -52,6 +62,10 @@ Automatisch erzeugte Links auf die Quelldateien. Kein eigener Kanon.
 - [RULES](RULES.md)
 - [THEMES](THEMES.md)
 - [LORE-GUARD](LORE-GUARD.md)
+
+## Ideenpool (redaktionelle Arbeitsstände)
+
+- [IDEAS – Ideenpool](IDEAS.md)
 
 ## Strips
 
