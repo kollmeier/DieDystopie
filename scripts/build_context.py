@@ -2,6 +2,7 @@
 """Build the Lost Tales index and upload-ready context, without modifying the briefing."""
 from pathlib import Path
 from urllib.parse import quote
+import os
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -9,6 +10,16 @@ PROJECT = ROOT / 'lost-tales'
 BRIEF = PROJECT / 'context-briefing.md'
 INDEX = PROJECT / 'context-index.md'
 CONTEXT = PROJECT / 'context.md'
+
+
+def readmes(directory):
+    """Find READMEs without entering template directories."""
+    paths = []
+    for root, directories, files in os.walk(directory):
+        directories[:] = [name for name in directories if not name.startswith('_')]
+        if 'README.md' in files:
+            paths.append(Path(root) / 'README.md')
+    return sorted(paths)
 
 
 def link(path):
@@ -20,10 +31,10 @@ def link(path):
 
 sections = [
     ('Grundlagen', [PROJECT / name for name in ('README.md', 'RULES.md', 'THEMES.md', 'LORE-GUARD.md')]),
-    ('Strips', sorted((PROJECT / 'strips').rglob('README.md')) if (PROJECT / 'strips').exists() else []),
-    ('Figuren', sorted((PROJECT / 'characters').rglob('README.md')) if (PROJECT / 'characters').exists() else []),
-    ('Orte', sorted((PROJECT / 'locations').rglob('README.md')) if (PROJECT / 'locations').exists() else []),
-    ('Referenzorte (nicht kanonisch)', sorted((PROJECT / 'reference_locations').rglob('README.md')) if (PROJECT / 'reference_locations').exists() else []),
+    ('Strips', readmes(PROJECT / 'strips')),
+    ('Figuren', readmes(PROJECT / 'characters')),
+    ('Orte', readmes(PROJECT / 'locations')),
+    ('Referenzorte (nicht kanonisch)', readmes(PROJECT / 'reference_locations')),
 ]
 lines = ['# Dateiindex', '', 'Automatisch erzeugte Links auf die Quelldateien. Kein eigener Kanon.', '']
 for heading, paths in sections:
