@@ -1,0 +1,38 @@
+name: Build Lost Tales context
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'lost-tales/**'
+      - 'scripts/build_context.py'
+      - '!lost-tales/context-index.md'
+      - '!lost-tales/context.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lost-tales-context-main
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build context
+        run: python3 scripts/build_context.py
+      - name: Commit generated files
+        run: |
+          git add lost-tales/context-index.md lost-tales/context.md
+          if git diff --cached --quiet; then
+            echo 'No changes'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'docs: regenerate Lost Tales context'
+          git push
