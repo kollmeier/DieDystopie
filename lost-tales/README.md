@@ -3,7 +3,7 @@
 **Lost Tales** ist eine fortlaufende Comicstrip-Serie, angesiedelt in **the Dystopia**.  
 Im Zentrum stehen Alltag, Verwaltung und Regelgläubigkeit nach dem Ende – nicht als große Apokalypse, sondern als banale Normalität.
 
-Die Serie arbeitet bewusst im **klassischen Zeitungs-Comic-Strip-Format**: geringer Detailgrad, klare Panels, Fokus auf Dialog, Situation und Pointe.
+Die Serie arbeitet bewusst im **klassischen Zeitungs-Comic-Strip-Format**: klare Panels, Fokus auf Dialog, Situation und Pointe. Der Detailgrad folgt der Bildfunktion gemäß [Visueller Stil und Bildsprache](visual-style.md).
 
 —
 
