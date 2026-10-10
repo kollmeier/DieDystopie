@@ -31,6 +31,8 @@ Erstbefüllung aus der gemeinsamen Redaktionsrunde zu *Lost Tales from the Dysto
 
 **Status:** A – Zur sofortigen Umsetzung · **Herkunft:** Brainstorming-Idee 08
 
+**Weiterentwicklung:** A002 wird als [Strip 004 – Das Update](strips/004%20-%20Das%20Update/README.md) weiterentwickelt.
+
 Eine Optimierungsgruppe untersucht den Hinweis, Computer während eines Updates nicht auszuschalten. Weil es bislang keine dokumentierten Zwischenfälle durch vorzeitiges Abschalten gab, wird die Warnung als überflüssig abgeschafft.
 
 **Vorgesehener Dreischritt:**
