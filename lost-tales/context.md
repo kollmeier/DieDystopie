@@ -72,6 +72,7 @@ Automatisch erzeugte Links auf die Quelldateien. Kein eigener Kanon.
 - [Strip 001 – Woke durch den nuklearen Winter](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/README.md)
 - [Strip 002](strips/002%20-%20Raid%20nach%20Regeln/README.md)
 - [Strip 003 – Be Prepared](strips/003%20-%20Be%20Prepared/README.md)
+- [Strip 004 – Das Update](strips/004%20-%20Das%20Update/README.md)
 
 ## Figuren
 
