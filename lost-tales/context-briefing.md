@@ -10,6 +10,10 @@
 
 Wenig Detail ist Stilmittel. Figuren sind vor allem funktional; es gibt keine ausgearbeitete Ursprungsgeschichte oder fremde Lore. Die Kritik richtet sich auf Mechanismen statt auf Gruppen. Allgemeine Endzeit-Genremotive sind zulässig, markennahe Übernahmen und Fortführungen fremder Werke nicht. Verbindlich sind `RULES.md`, `THEMES.md` und `LORE-GUARD.md`. Wutbürger-Rhetorik, moralische Regel-Eskalationen, Symbolpolitik und Meme-Kultur werden gezeigt, nicht erklärt. Eskalation darf fatal, aber nicht heroisch, rettend oder auflösend sein.
 
+## Visuelle Gestaltung
+
+Die Handlungsebene verwendet einen flachen, klar lesbaren Comicstil mit definierten Farbflächen und einfachen Highlights und Schatten ohne Farbverläufe. Hintergründe dürfen atmosphärischer und mit zunehmender Tiefe malerischer gestaltet sein, bis hin zu Anklängen an filmisches Matte-Painting. Der Detailgrad folgt der Erzählfunktion: Mehrpanel-Strips priorisieren Figuren und Pointe, atmosphärische Einzelbilder dürfen stärker ausgearbeitet sein. Verbindliche Details: [Visueller Stil und Bildsprache](visual-style.md).
+
 ## Figuren, Gruppen und Orte
 
 **Bunker 9** und seine Wohn-/Verwaltungsbereiche bilden einen wiederkehrenden Schauplatz. Die unterschiedlichen Blockbezeichnungen sind unten als offene Frage dokumentiert. An der Oberfläche gibt es unter anderem die Raider-Gruppe um Bunker 9 mit Preacher, Spikes, Hardrock, Tank und Gordon.
@@ -30,6 +34,7 @@ Das **stumme Maskottchen** ist ein austauschbares, passives Systemartefakt: Es s
 - **Blockbezeichnung:** `README.md` und `RULES.md` (§ 3) nennen „Block 2/9“; `characters/Bunker 9, Block 2/README.md` nennt den zweiten Wohnblock in Bunker 9 und alternativ „Block 9/2“. Die Zuordnung bzw. Schreibweise ist redaktionell zu klären.
 - **Strip 003:** Die README beschreibt die zweite Aussage als sinngemäße Wiederholung und erläutert eine wiederholte Selbstbestätigung; `DIALOGS.md` betont die bewusste Wortumkehr als pointenrelevant. Das Verhältnis dieser Beschreibungen bleibt offen.
 - **Visuelle Eigenständigkeit:** Die blau-gelbe Kleidung in `characters/Bunker 9, Block 2/README.md` und die fremdwerkbezogene Anspielung in `characters/Raiders/tank/README.md` sind anhand von `RULES.md` (§ 6) und `LORE-GUARD.md` (§§ 3, 6) zu prüfen. Daraus folgt hier keine Kanonentscheidung.
+- **Detailgrad:** `RULES.md` (§ 1) und `README.md` beschreiben geringen Detailgrad als Stilmittel der Serie; [visual-style.md](visual-style.md) erlaubt stärker malerische Einzelbilder und atmosphärisch dichte Panels. Ob und in welchem Umfang solche Ausarbeitungen mit der allgemeinen Reduktionsregel vereinbar sind, bleibt redaktionell zu klären; die bestehende Regel wird hier nicht aufgehoben.
 
 ## Ideenpool und nächste Entwürfe
 

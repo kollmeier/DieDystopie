@@ -95,6 +95,9 @@ Eine detaillierte Abgrenzung findet sich in `LORE-GUARD.md`.
 - `RULES.md`  
   Unverhandelbare Gestaltungs- und Erzählregeln.
 
+- [Visueller Stil und Bildsprache](visual-style.md)
+  Verbindliche Richtlinie für Handlungsebene, Hintergründe und Detailgrad nach Bildfunktion.
+
 - `THEMES.md`  
   Thematische Klammern und Kontinuitäten.
 

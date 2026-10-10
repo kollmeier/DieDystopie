@@ -21,7 +21,7 @@ class BuildContextTest(unittest.TestCase):
             briefing = project / 'context-briefing.md'
             original = b'# Briefing\n\nKeep this structure.\n'
             briefing.write_bytes(original)
-            included = ['README.md', 'RULES.md', 'THEMES.md', 'LORE-GUARD.md']
+            included = ['README.md', 'RULES.md', 'THEMES.md', 'LORE-GUARD.md', 'visual-style.md']
             excluded = []
             for section in ('strips', 'characters', 'locations', 'reference_locations'):
                 included += [f'{section}/README.md',

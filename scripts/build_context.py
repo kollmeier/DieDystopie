@@ -30,7 +30,7 @@ def link(path):
 
 
 sections = [
-    ('Grundlagen', [PROJECT / name for name in ('README.md', 'RULES.md', 'THEMES.md', 'LORE-GUARD.md')]),
+    ('Grundlagen', [PROJECT / name for name in ('README.md', 'RULES.md', 'THEMES.md', 'LORE-GUARD.md', 'visual-style.md')]),
     ('Ideenpool (redaktionelle Arbeitsstände)', [PROJECT / 'IDEAS.md']),
     ('Strips', readmes(PROJECT / 'strips')),
     ('Figuren', readmes(PROJECT / 'characters')),
