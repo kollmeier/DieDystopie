@@ -73,6 +73,7 @@ Automatisch erzeugte Links auf die Quelldateien. Kein eigener Kanon.
 - [Strip 002](strips/002%20-%20Raid%20nach%20Regeln/README.md)
 - [Strip 003 – Be Prepared](strips/003%20-%20Be%20Prepared/README.md)
 - [Strip 004 – Das Update](strips/004%20-%20Das%20Update/README.md)
+- [Strip 005 – Naturschutzgebiet: Die Wege](strips/005%20-%20Naturschutzgebiet%20-%20Die%20Wege/README.md)
 
 ## Figuren
 
