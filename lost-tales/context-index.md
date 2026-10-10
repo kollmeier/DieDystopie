@@ -9,6 +9,10 @@ Automatisch erzeugte Links auf die Quelldateien. Kein eigener Kanon.
 - [THEMES](THEMES.md)
 - [LORE-GUARD](LORE-GUARD.md)
 
+## Ideenpool (redaktionelle Arbeitsstände)
+
+- [IDEAS – Ideenpool](IDEAS.md)
+
 ## Strips
 
 - [Strip 001 – Woke durch den nuklearen Winter](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/README.md)
