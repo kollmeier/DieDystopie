@@ -45,6 +45,8 @@ Eine Optimierungsgruppe untersucht den Hinweis, Computer während eines Updates 
 
 **Status:** A – Zur sofortigen Umsetzung · **Herkunft:** Brainstorming-Idee 11A
 
+**Weiterentwicklung:** A003 wird als [Strip 005 – Naturschutzgebiet: Die Wege](strips/005%20-%20Naturschutzgebiet%20-%20Die%20Wege/README.md) weiterentwickelt.
+
 **Format:** Einbild-Strip ohne Figuren, Sprechblasen oder erläuternden Kommentar.
 
 Ein altes, verwittertes, am realen NRW-Vorbild orientiertes **amtliches Naturschutzschild mit Eule**. Darunter ein separates Zusatzschild:
