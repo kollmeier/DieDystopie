@@ -10,7 +10,9 @@ Wenn ein Strip gegen diese Regeln verstößt, wird er **überarbeitet oder verwo
 ## 1. Grundregeln der Serie
 
 - Die Serie ist ein **klassischer Zeitungs-Comic-Strip**, kein Graphic Novel.
-- Geringer Detailgrad ist **Stilmittel**, kein Produktionsmangel.
+- Der Detailgrad folgt der **erzählerischen Funktion des Bildes**. Figuren und handlungsrelevante Elemente bleiben grafisch klar und reduziert; Hintergründe dürfen atmosphärisch und malerisch gestaltet sein.
+- Mehrpanel-Strips mit Handlung oder Dialog priorisieren Lesbarkeit, Panelrhythmus und Pointe. Einzelbilder ohne Figuren oder ohne dominante Handlung dürfen stärker malerisch ausgearbeitet werden; atmosphärisch dichte erzählende Panels sind zulässig, solange die Handlung lesbar bleibt.
+- Für die visuelle Gestaltung ist [Visueller Stil und Bildsprache](visual-style.md) maßgeblich.
 - Die Pointe liegt im **Verhalten**, nicht im Statement.
 - Kein Strip erklärt seine eigene Aussage.
 - Niemand „gewinnt“ moralisch.

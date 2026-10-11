@@ -8,6 +8,7 @@ Automatisch erzeugte Links auf die Quelldateien. Kein eigener Kanon.
 - [RULES](RULES.md)
 - [THEMES](THEMES.md)
 - [LORE-GUARD](LORE-GUARD.md)
+- [Visueller Stil und Bildsprache](visual-style.md)
 
 ## Ideenpool (redaktionelle Arbeitsstände)
 

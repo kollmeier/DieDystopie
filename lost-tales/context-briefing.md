@@ -8,7 +8,11 @@
 
 ## Erzählerische Leitplanken
 
-Wenig Detail ist Stilmittel. Figuren sind vor allem funktional; es gibt keine ausgearbeitete Ursprungsgeschichte oder fremde Lore. Die Kritik richtet sich auf Mechanismen statt auf Gruppen. Allgemeine Endzeit-Genremotive sind zulässig, markennahe Übernahmen und Fortführungen fremder Werke nicht. Verbindlich sind `RULES.md`, `THEMES.md` und `LORE-GUARD.md`. Wutbürger-Rhetorik, moralische Regel-Eskalationen, Symbolpolitik und Meme-Kultur werden gezeigt, nicht erklärt. Eskalation darf fatal, aber nicht heroisch, rettend oder auflösend sein.
+Figuren sind vor allem funktional; es gibt keine ausgearbeitete Ursprungsgeschichte oder fremde Lore. Die Kritik richtet sich auf Mechanismen statt auf Gruppen. Allgemeine Endzeit-Genremotive sind zulässig, markennahe Übernahmen und Fortführungen fremder Werke nicht. Verbindlich sind `RULES.md`, `THEMES.md` und `LORE-GUARD.md`. Wutbürger-Rhetorik, moralische Regel-Eskalationen, Symbolpolitik und Meme-Kultur werden gezeigt, nicht erklärt. Eskalation darf fatal, aber nicht heroisch, rettend oder auflösend sein.
+
+## Visuelle Gestaltung
+
+Die Handlungsebene verwendet einen flachen, klar lesbaren Comicstil mit definierten Farbflächen und einfachen Highlights und Schatten ohne Farbverläufe. Hintergründe dürfen atmosphärischer und mit zunehmender Tiefe malerischer gestaltet sein, bis hin zu Anklängen an filmisches Matte-Painting. Der Detailgrad folgt der Erzählfunktion: Mehrpanel-Strips priorisieren Figuren und Pointe, atmosphärische Einzelbilder dürfen stärker ausgearbeitet sein. Verbindliche Details: [Visueller Stil und Bildsprache](visual-style.md).
 
 ## Figuren, Gruppen und Orte
 
