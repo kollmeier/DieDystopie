@@ -15,6 +15,37 @@ Die Handlung ist grafisch klar, die Welt darf malerisch sein. Figuren und handlu
 - Handlungsrelevante Objekte folgen derselben Logik, damit sie sofort erkennbar bleiben.
 - Vorhandene Zeichnungen dienen als Referenz für die konkrete Ausprägung des Stils; diese Richtlinie ersetzt keine Figurenreferenz.
 
+## Figurenproportionen und Formensprache
+
+Die Figuren folgen einer stilisierten, geometrisch vereinfachten Comic-Anatomie.
+
+### Körperproportionen
+
+- Standardhöhe: drei Kopfhöhen.
+- Vertikale Aufteilung im Verhältnis 1:1:1:
+  - 1 Kopfhöhe: Kopf
+  - 1 Kopfhöhe: Oberkörper
+  - 1 Kopfhöhe: Unterkörper einschließlich Beine und Füße
+- Die Proportionen dienen als verbindliche Grundkonstruktion. Individuelle Figurenmerkmale bleiben möglich.
+
+### Kopfform
+
+- Grundform ist ein Kreis.
+- Leicht elliptische Abweichungen sind zulässig.
+- Stark längliche oder anatomisch realistische Kopfformen werden vermieden.
+
+### Hände
+
+- Vereinfachte, überwiegend rechteckige Grundform.
+- Vier Finger und ein Daumen.
+- Finger werden mit wenigen klaren Formen dargestellt.
+- Keine ausgeprägten Knöchel, Sehnen oder anatomischen Details.
+- Gesten und Handhaltungen müssen auch in kleinen Panels gut lesbar bleiben.
+
+### Gestaltungsprinzip
+
+Die Figuren sollen durch klare geometrische Formen, wiedererkennbare Silhouetten und reduzierte Details funktionieren. Ausdruck und Körpersprache haben Vorrang vor anatomischem Realismus.
+
 ## Hintergründe und räumliche Tiefe
 
 - Hintergründe dürfen malerischer gestaltet werden als Figuren und Handlungsebene.
