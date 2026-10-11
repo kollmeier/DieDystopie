@@ -30,10 +30,20 @@ class BuildContextTest(unittest.TestCase):
                 excluded += [f'{section}/_template/README.md',
                              f'{section}/_template/normal/README.md',
                              f'{section}/Real_group/_draft/deep/README.md']
+            included += [f'strips/Real_group/{name}' for name in (
+                'DIALOGS.md', 'TODO.md', 'CHANGES.md', 'exports/preview.png'
+            )]
+            excluded += [f'strips/_template/{name}' for name in (
+                'DIALOGS.md', 'TODO.md', 'CHANGES.md', 'exports/preview.png'
+            )]
+            excluded += ['strips/Real_group/exports/source.psd']
             for relative in included + excluded:
                 path = project / relative
                 path.parent.mkdir(parents=True, exist_ok=True)
-                path.write_text('# Entry\n', encoding='utf-8')
+                if path.suffix == '.md':
+                    path.write_text('' if path.name == 'CHANGES.md' else '# Entry\n', encoding='utf-8')
+                else:
+                    path.write_bytes(b'\x89PNG\r\n\x1a\n')
 
             subprocess.run([sys.executable, str(generator)], check=True, capture_output=True)
             index = (project / 'context-index.md').read_text(encoding='utf-8')
@@ -43,6 +53,8 @@ class BuildContextTest(unittest.TestCase):
                 self.assertIn(f']({quote(relative, safe="/.-_")})', index)
             for relative in excluded:
                 self.assertNotIn(f']({quote(relative, safe="/.-_")})', index)
+            self.assertIn('Real_group – CHANGES.md', index)
+            self.assertIn('Real_group – Vorschau (preview.png)', index)
             self.assertEqual(briefing.read_bytes(), original)
             context = (project / 'context.md').read_text(encoding='utf-8')
             self.assertTrue(context.endswith(
