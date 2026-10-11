@@ -24,15 +24,29 @@ def readmes(directory):
 
 def link(path):
     rel = path.relative_to(PROJECT).as_posix()
-    match = re.search(r'^#\s+(.+?)\s*$', path.read_text(encoding='utf-8-sig'), re.M)
-    name = match.group(1) if match else path.parent.name
+    if path.suffix == '.md':
+        match = re.search(r'^#\s+(.+?)\s*$', path.read_text(encoding='utf-8-sig'), re.M)
+        name = match.group(1) if match else f'{path.parent.name} – {path.name}'
+    else:
+        name = f'{path.parent.parent.name} – Vorschau (preview.png)'
     return f'- [{name}]({quote(rel, safe="/.-_")})'
+
+
+def strip_sources(directory):
+    """Index each strip's existing documentation and current preview."""
+    paths = []
+    for readme in readmes(directory):
+        paths.append(readme)
+        paths.extend(readme.parent / name for name in (
+            'DIALOGS.md', 'TODO.md', 'CHANGES.md', 'exports/preview.png'
+        ) if (readme.parent / name).is_file())
+    return paths
 
 
 sections = [
     ('Grundlagen', [PROJECT / name for name in ('README.md', 'RULES.md', 'THEMES.md', 'LORE-GUARD.md', 'visual-style.md')]),
     ('Ideenpool (redaktionelle Arbeitsstände)', [PROJECT / 'IDEAS.md']),
-    ('Strips', readmes(PROJECT / 'strips')),
+    ('Strips', strip_sources(PROJECT / 'strips')),
     ('Figuren', readmes(PROJECT / 'characters')),
     ('Orte', readmes(PROJECT / 'locations')),
     ('Referenzorte (nicht kanonisch)', readmes(PROJECT / 'reference_locations')),

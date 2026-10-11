@@ -75,10 +75,23 @@ Automatisch erzeugte Links auf die Quelldateien. Kein eigener Kanon.
 ## Strips
 
 - [Strip 001 – Woke durch den nuklearen Winter](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/README.md)
+- [Strip 001 – Dialoge der gezeichneten Fassung](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/DIALOGS.md)
+- [Strip 001 – TODO](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/TODO.md)
+- [001 - Woke durch den nuklearen Winter – CHANGES.md](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/CHANGES.md)
+- [001 - Woke durch den nuklearen Winter – Vorschau (preview.png)](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/exports/preview.png)
 - [Strip 002](strips/002%20-%20Raid%20nach%20Regeln/README.md)
+- [Strip 002 – Dialoge](strips/002%20-%20Raid%20nach%20Regeln/DIALOGS.md)
+- [002 - Raid nach Regeln – CHANGES.md](strips/002%20-%20Raid%20nach%20Regeln/CHANGES.md)
+- [002 - Raid nach Regeln – Vorschau (preview.png)](strips/002%20-%20Raid%20nach%20Regeln/exports/preview.png)
 - [Strip 003 – Be Prepared](strips/003%20-%20Be%20Prepared/README.md)
+- [Strip 003 – Dialoge der gezeichneten Fassung](strips/003%20-%20Be%20Prepared/DIALOGS.md)
+- [003 - Be Prepared – Vorschau (preview.png)](strips/003%20-%20Be%20Prepared/exports/preview.png)
 - [Strip 004 – Das Update](strips/004%20-%20Das%20Update/README.md)
+- [Strip 004 – Dialoge](strips/004%20-%20Das%20Update/DIALOGS.md)
+- [Strip 004 – Änderungen](strips/004%20-%20Das%20Update/CHANGES.md)
 - [Strip 005 – Naturschutzgebiet: Die Wege](strips/005%20-%20Naturschutzgebiet%20-%20Die%20Wege/README.md)
+- [Strip 005 – Dialoge und Schildtext](strips/005%20-%20Naturschutzgebiet%20-%20Die%20Wege/DIALOGS.md)
+- [Strip 005 – Änderungen](strips/005%20-%20Naturschutzgebiet%20-%20Die%20Wege/CHANGES.md)
 
 ## Figuren
 

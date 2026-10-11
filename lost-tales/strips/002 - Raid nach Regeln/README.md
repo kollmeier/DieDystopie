@@ -1,6 +1,6 @@
 # Strip 002
 
-![Strip](strip-002.tiff)
+![Aktueller zeichnerischer Stand](exports/preview.png)
 
 ## Titel
 Raid nach Regeln
