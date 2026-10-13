@@ -12,7 +12,9 @@ Figuren sind vor allem funktional; es gibt keine ausgearbeitete Ursprungsgeschic
 
 ## Visuelle Gestaltung
 
-Die Handlungsebene verwendet einen flachen, klar lesbaren Comicstil mit definierten Farbflächen und einfachen Highlights und Schatten ohne Farbverläufe. Hintergründe dürfen atmosphärischer und mit zunehmender Tiefe malerischer gestaltet sein, bis hin zu Anklängen an filmisches Matte-Painting. Der Detailgrad folgt der Erzählfunktion: Mehrpanel-Strips priorisieren Figuren und Pointe, atmosphärische Einzelbilder dürfen stärker ausgearbeitet sein. Verbindliche Details: [Visueller Stil und Bildsprache](visual-style.md).
+Die Handlungsebene verwendet einen flachen, klar lesbaren Comicstil mit definierten Farbflächen und einfachen Highlights und Schatten ohne Farbverläufe. Hintergründe dürfen atmosphärisch und malerisch gestaltet sein; insbesondere entfernte Ebenen dürfen an filmisches Matte-Painting erinnern. Die Erzählfunktion ist maßgeblich, nicht eine starre Distanzgrenze. Der Detailgrad folgt der Erzählfunktion: Mehrpanel-Strips priorisieren Figuren und Pointe, atmosphärische Einzelbilder dürfen stärker ausgearbeitet sein. Verbindliche Details: [Visueller Stil und Bildsprache](visual-style.md).
+
+Die verbindliche Grundkonstruktion beträgt **drei Kopfhöhen**: Kopf, Oberkörper und Unterkörper einschließlich Beine und Füße im Verhältnis **1:1:1**. Köpfe sind kreisförmig bis leicht elliptisch; Hände haben eine vereinfachte, überwiegend rechteckige Grundform mit **vier Fingern und einem Daumen**, ohne ausgeprägte anatomische Details. Klare geometrische Formen, Silhouetten, Ausdruck und Körpersprache haben Vorrang vor anatomischem Realismus. Individuelle Figurenmerkmale bleiben möglich; bestehende Figurenreferenzen bleiben maßgeblich (`visual-style.md`).
 
 ## Figuren, Gruppen und Orte
 
@@ -24,22 +26,25 @@ Das **stumme Maskottchen** ist ein austauschbares, passives Systemartefakt: Es s
 
 ## Vorhandene Strips
 
-- **001 – Woke durch den nuklearen Winter:** Ein Winterlied und seine vermeintlich problematische Aussage treffen auf die Ausgangsregeln von Bunker 9. Frühere Entwürfe mit abweichender fremdwerk-naher Lore sind nicht kanonisch.
-- **002 – Raid nach Regeln:** Eine Raider-Gruppe wartet vor dem Bunkereingang, weil das Schild verlangt, zuerst andere aussteigen zu lassen.
-- **003 – Be Prepared:** Die Pointe kehrt den Wortlaut um: „Geil, Apokalypse! Dann hat sich das Preppen ja gelohnt!“ wird zu „Geil, Prepper! Dann hat sich die Apokalypse ja gelohnt!“ (`DIALOGS.md`). Ein Schild verweist auf Bunker 9; die Nummer des gezeigten Bunkers und die Identität der beiden Personengruppen sind nicht verbindlich festgelegt.
+- **001 – Woke durch den nuklearen Winter:** Ein Winterlied und seine vermeintlich problematische Aussage treffen auf die Ausgangsregeln von Bunker 9. Frühere Entwürfe mit abweichender fremdwerk-naher Lore sind nicht kanonisch. Laut `TODO.md` inhaltlich freigegeben; Mimik und Aushanglesbarkeit sind noch zu prüfen, die endgültige Freigabe folgt nach dem zeichnerischen Feinschliff.
+- **002 – Raid nach Regeln:** Eine Raider-Gruppe wartet vor dem Bunkereingang, weil das Schild verlangt, zuerst andere aussteigen zu lassen. Für die nächste Zeichnungsfassung sind „Wie lange warten wir denn noch?“ und Spikes’ „Achso.“ verbindlich (`DIALOGS.md`, `TODO.md`); Preacher zeigt wortlos auf das Schild. Die Dialogkorrekturen und der zeichnerische Feinschliff sind noch offen.
+- **003 – Be Prepared:** Die Pointe kehrt den Wortlaut um: „Geil, Apokalypse! Dann hat sich das Preppen ja gelohnt!“ wird zu „Geil, Prepper! Dann hat sich die Apokalypse ja gelohnt!“ (`DIALOGS.md`). Ein Schild verweist auf Bunker 9; die Nummer des gezeigten Bunkers ist nicht verbindlich festgelegt. Die README lässt die Identität der Personengruppen offen. Für die noch nicht umgesetzte Ergänzung legt `TODO.md` spätere Überlebende beziehungsweise Nachfahren anderer Überlebender fest, die zurückgelassene Vorräte entdecken: Eine gefundene Dose „Pinkus grüne Erbsen“ soll den materiellen Bezug der Wortumkehr zeigen. Umsetzung und abschließende Bildprüfung sind offen; daraus keine weitergehende Chronologie oder Biografien ableiten.
+- **004 – Das Update:** Redaktioneller Dreipanel-Entwurf aus A002: Eine Optimierungsgruppe schafft die Update-Warnung wegen fehlender dokumentierter Zwischenfälle als überflüssig ab. Das stille Schlussbild zeigt ausschließlich „Ausgefallene Lebenserhaltungssysteme: 0 → 17 → 83 → 241“. Ort, Besetzung und konkrete Panelgestaltung bleiben offen; noch keine Zeichnung oder Exportdatei, keine automatische Kanonfreigabe (`README.md`, `DIALOGS.md`).
+- **005 – Naturschutzgebiet: Die Wege:** Redaktioneller Einbild-Entwurf aus A003, ohne Figuren oder Maskottchen: altes amtliches Naturschutzschild mit Eule und Zusatz „Bitte bleiben Sie auf den Wegen.“ vor einer Landschaft ohne erkennbare Wege. Noch keine Zeichnung oder Exportdatei, keine automatische Kanonfreigabe; großer Publikationsabstand zu B002 (`README.md`, `DIALOGS.md`).
 
 ## Offene redaktionelle Fragen
 
 - **Weltname:** `README.md` („Welt & Orte“) beschreibt „the Dystopia“ als abstrakten, bewusst generischen Weltnamen; `RULES.md` (§ 2) als konkreten Weltnamen und ausdrücklich nicht als abstrakten Begriff. Welche Bedeutung gelten soll, bleibt offen.
 - **Blockbezeichnung:** `README.md` und `RULES.md` (§ 3) nennen „Block 2/9“; `characters/Bunker 9, Block 2/README.md` nennt den zweiten Wohnblock in Bunker 9 und alternativ „Block 9/2“. Die Zuordnung bzw. Schreibweise ist redaktionell zu klären.
-- **Strip 003:** Die README beschreibt die zweite Aussage als sinngemäße Wiederholung und erläutert eine wiederholte Selbstbestätigung; `DIALOGS.md` betont die bewusste Wortumkehr als pointenrelevant. Das Verhältnis dieser Beschreibungen bleibt offen.
+- **Strip 002:** `TODO.md` dokumentiert Abweichungen zwischen `exports/preview.png` und der verbindlichen Dialogfassung; die Korrektur ist beschlossen, aber noch nicht umgesetzt. Auch der Schildtext unterscheidet sich: Die README nennt „Bitte erst aussteigen lassen. Danke. Ihre Bunkerverwaltung“, die Zeichnung laut TODO „Bitte erst aussteigen lassen!“ und „Die Bunker-verwaltung“. `DIALOGS.md` legt keinen Schildwortlaut fest; eine inhaltliche Angleichung ist nicht beschlossen.
+- **Strip 003:** Die README beschreibt die zweite Aussage als sinngemäße Wiederholung und erläutert eine wiederholte Selbstbestätigung; `DIALOGS.md` betont die bewusste Wortumkehr als pointenrelevant. `TODO.md` bestätigt die Wortumkehr als Kern der Pointe und legt für die anstehende Ergänzung spätere Überlebende beziehungsweise Nachfahren fest, während die README deren Identität weiter offenlässt. Die bisherige Bildbeschreibung und die noch umzusetzende Interpretation bleiben getrennte Arbeitsstände.
 - **Visuelle Eigenständigkeit:** Die blau-gelbe Kleidung in `characters/Bunker 9, Block 2/README.md` und die fremdwerkbezogene Anspielung in `characters/Raiders/tank/README.md` sind anhand von `RULES.md` (§ 6) und `LORE-GUARD.md` (§§ 3, 6) zu prüfen. Daraus folgt hier keine Kanonentscheidung.
 
 ## Ideenpool und nächste Entwürfe
 
 `IDEAS.md` enthält redaktionelle Arbeitsstände, keine automatische Kanonfreigabe. **A** bedeutet zur sofortigen Umsetzung, **B** spätere Umsetzung beziehungsweise gezielte Klärung, **C** Wiedervorlage mit noch offener Pointe oder Dramaturgie. Vor der Ausarbeitung den vollständigen Eintrag und die verbindlichen Projektregeln lesen.
 
-- **A001 – Die KI weiß es besser**, **A002 – Das Update / Die überflüssige Warnung** und **A003 – Naturschutzgebiet: Die Wege** sind redaktionell zur Umsetzung eingeordnet. A002 endet ausschließlich mit dem Zähler ausgefallener Lebenserhaltungssysteme; A003 zeigt ein altes Schild ohne Maskottchen und eine Landschaft ohne erkennbare Wege.
+- **A001 – Die KI weiß es besser**, **A002 – Das Update / Die überflüssige Warnung** und **A003 – Naturschutzgebiet: Die Wege** sind redaktionell zur Umsetzung eingeordnet. A002 wird als Strip 004, A003 als Strip 005 weiterentwickelt (siehe oben).
 - **B001 – Der letzte Überlebende / Die Stichwahl** braucht noch eine nachvollziehbare interne Wahlregel. **B002 – Naturschutzgebiet: Das Rebranding** zeigt ein neues Schild mit passivem Maskottchen; großer Publikationsabstand zu A003 ist vorgesehen.
 - **C001 – Der Schlussverkauf**, **C002 – Die Schutzgebühr** und **C003 – Der Weltuntergangstag** brauchen stärkere Schlusswendungen. KI-Folgegags zu A001 bleiben ohne eigene ID, bis sie eine eigenständige Pointe haben.
 
@@ -47,4 +52,4 @@ A-/B-IDs bleiben bei Statuswechseln erhalten und werden nicht wiederverwendet. C
 
 ## Redaktionelle Vorsicht
 
-Diese Zusammenfassung ist eine Orientierung, kein Ersatz für die Quelldateien. Vor der Arbeit an einem konkreten Strip dessen README und Dialogdateien lesen. Bei Konflikten nichts eigenmächtig harmonisieren, sondern eine offene Frage formulieren. Neue Fakten, Kanonänderungen und Figurenmerkmale dürfen nicht aus dieser Kurzfassung abgeleitet werden.
+Diese Zusammenfassung ist eine Orientierung, kein Ersatz für die Quelldateien. Vor der Arbeit an einem konkreten Strip dessen README, Dialogdateien und gegebenenfalls `TODO.md` lesen. TODO-Dateien enthalten offene Arbeiten und redaktionelle Festlegungen; `CHANGES.md` dokumentiert tatsächlich ausgeführte Änderungen. Offene Vorschläge nicht als bereits umgesetzt darstellen. Bei Konflikten nichts eigenmächtig harmonisieren, sondern eine offene Frage formulieren. Neue Fakten, Kanonänderungen und Figurenmerkmale dürfen nicht aus dieser Kurzfassung abgeleitet werden.
