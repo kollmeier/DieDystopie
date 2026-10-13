@@ -21,17 +21,18 @@ Wenn ein Strip gegen diese Regeln verstößt, wird er **überarbeitet oder verwo
 
 ## 2. Welt & Lore
 
-- Die Welt heißt **the Dystopia**.
-- „the Dystopia“ ist ein **konkreter Weltname**, kein abstrakter Begriff.
-- Es gibt **keine ausgearbeitete Lore**, keine Historie, keine Ursprungserzählung.
+- Die Welt heißt **The Dystopia**.
+- „The Dystopia“ ist ein **konkreter Weltname**, kein abstrakter Begriff.
+- Der konkrete Eigenname spielt mit einer **bewusst unkonkreten Ursprungsgeschichte**. Es ist impliziert, dass nicht alle Bewohner wissen, wie die Dystopie entstanden ist.
+- Es gibt **keine ausgearbeitete Lore**, keine Historie und keine verbindlich erzählte Entstehungsgeschichte.
 - Weltlogik entsteht ausschließlich aus wiederholten Situationen.
 
 —
 
 ## 3. Orte
 
-- **Block 2/9** ist ein wiederkehrender Hauptschauplatz.
-- Nummerierungen wie `2/9` sind **Adress- oder Verwaltungslogik**, keine Mythologie.
+- **Block 9/2** bezeichnet den zweiten Wohnblock in Bunker 9 und ist ein wiederkehrender Hauptschauplatz.
+- Nummerierungen wie `9/2` sind **Adress- oder Verwaltungslogik**, keine Mythologie.
 - Es gibt Nachbarblöcke, ohne übergeordnetes „verbundenes System“.
 - Orte außerhalb (Surface, Elsewhere) dienen:
   - Eskalation

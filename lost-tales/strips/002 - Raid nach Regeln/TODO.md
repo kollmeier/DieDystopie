@@ -55,11 +55,11 @@ Die neue Sprechblase soll Spikes eindeutig zugeordnet sein und möglichst erst n
 **Priorität: Empfohlen**
 
 - [ ] Die Lesbarkeit des Schildtexts in der vorgesehenen Veröffentlichungsgröße prüfen und die Schrift bei Bedarf gezielt nachschärfen.
-- [ ] Den Schildtext anhand der vorhandenen gezeichneten Fassung und der Projektquellen prüfen; keine eigenmächtigen inhaltlichen Änderungen vornehmen.
+- [ ] Den Schildtext an den verbindlichen Wortlaut aus `DIALOGS.md` angleichen: **„Bitte erst aussteigen lassen. Danke. Ihre Bunkerverwaltung“**.
 
 **Begründung:** Die Verwaltungsregel muss schnell und zuverlässig lesbar sein, damit Spikes' anschließende Reaktion verständlich wird. Die handgezeichnete, leicht unregelmäßige Gestaltung darf erhalten bleiben. Ziel ist eine bessere Lesbarkeit, keine sterile Typografie.
 
-**Quellenunterschied:** In `exports/preview.png` steht auf dem Schild „Bitte erst aussteigen lassen!“ und darunter „Die Bunker-verwaltung“ mit einem Zeilenumbruch nach dem Bindestrich. Die `README.md` nennt dagegen „Bitte erst aussteigen lassen. Danke. Ihre Bunkerverwaltung“. `DIALOGS.md` legt keinen Schildwortlaut fest. Dieser Unterschied bleibt ausdrücklich dokumentiert und wird hier nicht eigenmächtig aufgelöst. Eine inhaltliche Angleichung ist durch diese Aufgabe nicht beschlossen.
+**Beschlossene Angleichung:** In `exports/preview.png` steht bislang „Bitte erst aussteigen lassen!“ und darunter „Die Bunker-verwaltung“ mit einem Zeilenumbruch nach dem Bindestrich. Verbindlich gilt nun der in `README.md` und `DIALOGS.md` dokumentierte Wortlaut „Bitte erst aussteigen lassen. Danke. Ihre Bunkerverwaltung“. Die zeichnerische Umsetzung ist noch offen.
 
 **Gewünschte Wirkung:** Die Regel wird unmittelbar verständlich und trägt die Pointe zuverlässig auch in der Veröffentlichungsgröße. Der individuelle Charakter des Schilds bleibt dabei erhalten.
 
