@@ -6,6 +6,8 @@ Grundlage dieser offenen Aufgaben sind die vorhandenen `README.md` und `DIALOGS.
 
 ## 1. Mund des braunhaarigen Bewohners im Schlussbild
 
+**Issue:** [#18](https://github.com/kollmeier/DieDystopie/issues/18)
+
 **Priorität: Empfohlen**
 
 **Offene Aufgabe:** Die Mundform überprüfen und gezielt überarbeiten.
@@ -23,6 +25,8 @@ Grundlage dieser offenen Aufgaben sind die vorhandenen `README.md` und `DIALOGS.
 
 ## 2. Mund des blonden Bewohners im Schlussbild
 
+**Issue:** [#19](https://github.com/kollmeier/DieDystopie/issues/19)
+
 **Priorität: Optional**
 
 **Offene Aufgabe:** Eine kleinere, leicht asymmetrische Mundöffnung ausprobieren und mit der bestehenden Fassung vergleichen.
@@ -38,6 +42,8 @@ Grundlage dieser offenen Aufgaben sind die vorhandenen `README.md` und `DIALOGS.
 **Gewünschte Wirkung:** Die Rückfrage soll ihre trockene Skepsis behalten. Der Vergleich soll zeigen, ob eine kleinere Mundöffnung diesen Ausdruck präziser trägt; ergibt sich kein erkennbarer Gewinn, bleibt die bestehende Mundform erhalten.
 
 ## 3. Lesbarkeit des Ausgangsaushangs
+
+**Issue:** [#20](https://github.com/kollmeier/DieDystopie/issues/20)
 
 **Priorität: Empfohlen**
 

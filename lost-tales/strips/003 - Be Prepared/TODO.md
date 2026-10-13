@@ -6,6 +6,8 @@ Grundlage sind die vorhandenen `README.md` und `DIALOGS.md` sowie `exports/previ
 
 ## 1. Gefundene Konservendose ergänzen
 
+**Issue:** [#26](https://github.com/kollmeier/DieDystopie/issues/26)
+
 **Priorität: Beschlossen**
 
 - [ ] Im zweiten Panel dem linken Überlebenden eine gerade gefundene Konservendose mit der Aufschrift **„Pinkus grüne Erbsen“** in die Hand geben.
@@ -18,6 +20,8 @@ Grundlage sind die vorhandenen `README.md` und `DIALOGS.md` sowie `exports/previ
 
 ## 2. Moment der Entdeckung darstellen
 
+**Issue:** [#27](https://github.com/kollmeier/DieDystopie/issues/27)
+
 **Priorität: Beschlossen – konkrete Ausführung offen**
 
 - [ ] Die Haltung des linken Überlebenden so gestalten, dass die Dose als gerade entdeckter Fund wirkt.
@@ -29,6 +33,8 @@ Grundlage sind die vorhandenen `README.md` und `DIALOGS.md` sowie `exports/previ
 **Offene Ausführung:** Die genaue Handhaltung, Blickrichtung und Position der Dose werden erst während der zeichnerischen Umsetzung entschieden. Die genannten Gesten sind Möglichkeiten, keine verbindliche Kompositionslösung.
 
 ## 3. Sprechblase im zweiten Panel prüfen
+
+**Issue:** [#28](https://github.com/kollmeier/DieDystopie/issues/28)
 
 **Priorität: Empfohlen – Prüfung während der Umsetzung**
 
@@ -44,6 +50,8 @@ Der Dialog lautet gemäß `DIALOGS.md`: **„Geil, Prepper! Dann hat sich die Ap
 
 ## 4. Zusammenspiel der Bildelemente prüfen
 
+**Issue:** [#29](https://github.com/kollmeier/DieDystopie/issues/29)
+
 **Priorität: Empfohlen – Prüfung während der Umsetzung**
 
 - [ ] Nach Ergänzung der Dose das gesamte zweite Panel auf Verständlichkeit und Blickführung prüfen.
@@ -57,6 +65,8 @@ Besonders relevant sind die gefundene Konservendose, die Skelette als Hinweis au
 **Grenzen:** Keine zusätzlichen Vorratsberge, erklärenden Dialoge oder demonstrativen Zeigegesten vorsehen. Die genaue Anordnung der Bildelemente wird nicht vorab festgelegt.
 
 ## 5. Umzugsschild auf Lesbarkeit prüfen
+
+**Issue:** [#30](https://github.com/kollmeier/DieDystopie/issues/30)
 
 **Priorität: Optional**
 
