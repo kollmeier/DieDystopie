@@ -1,7 +1,7 @@
 # Charakter Name
 
 ## Beschreibung
-Mutierte Schildkröte, allerdings weit übers Teenager-Alter hinaus. Hasst TMHT-Witze über ihn. 
+Mutierte Schildkröte, allerdings weit übers Teenager-Alter hinaus.
 
 ## Darstellung
 

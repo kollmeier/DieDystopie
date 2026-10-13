@@ -1,6 +1,6 @@
 # Lost Tales
 
-**Lost Tales** ist eine fortlaufende Comicstrip-Serie, angesiedelt in **the Dystopia**.  
+**Lost Tales** ist eine fortlaufende Comicstrip-Serie, angesiedelt in **The Dystopia**.  
 Im Zentrum stehen Alltag, Verwaltung und Regelgläubigkeit nach dem Ende – nicht als große Apokalypse, sondern als banale Normalität.
 
 Die Serie arbeitet bewusst im **klassischen Zeitungs-Comic-Strip-Format**: klare Panels, Fokus auf Dialog, Situation und Pointe. Der Detailgrad folgt der Bildfunktion gemäß [Visueller Stil und Bildsprache](visual-style.md).
@@ -28,11 +28,11 @@ Niemand „gewinnt“ moralisch – die Pointe liegt im Verhalten.
 
 ## Welt & Orte
 
-- **the Dystopia**  
-  Abstrakter, bewusst generischer Weltname. Kein Lore-Versprechen, sondern ein funktionaler Rahmen.
+- **The Dystopia**  
+  Konkreter Eigenname, der mit einer bewusst unkonkreten Ursprungsgeschichte spielt. Es ist impliziert, dass nicht alle Bewohner wissen, wie die Dystopie entstanden ist; eine verbindliche Entstehungsgeschichte wird nicht erzählt.
 
-- **Block 2/9**  
-  Hauptschauplatz vieler Strips. Ein Wohn-/Verwaltungsblock mit klaren Regeln, Nachbarblöcken und alltäglichen Konflikten.
+- **Block 9/2**  
+  Hauptschauplatz vieler Strips: der zweite Wohnblock in Bunker 9. Ein Wohn-/Verwaltungsblock mit klaren Regeln, Nachbarblöcken und alltäglichen Konflikten.
 
 - **Elsewhere / Surface**  
   Abweichende Orte für härtere oder fatalere Pointen. Keine feste Lore, nur situative Eskalation.

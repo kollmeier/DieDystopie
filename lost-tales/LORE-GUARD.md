@@ -50,7 +50,7 @@ Nicht verwenden:
 - implizite Kartenlogiken („der letzte“, „der erste“, „Zentralvault“)
 
 Erlaubt sind:
-- funktionale Nummerierungen (z. B. `Block 2/9`)
+- funktionale Nummerierungen (z. B. `Block 9/2`)
 - Verwaltungs- oder Adresslogik ohne Mythologie
 
 —

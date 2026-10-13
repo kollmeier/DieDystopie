@@ -81,7 +81,7 @@ Besonders relevant sind die gefundene Konservendose, die Skelette als Hinweis au
 
 Diese Hintergründe dienen ausschließlich der redaktionellen Interpretation und Umsetzung dieses Strips. Daraus werden keine eigenständigen, weitergehenden kanonischen Fakten, Biografien oder neuen Weltregeln abgeleitet.
 
-**Abgrenzung zur bisherigen Dokumentation:** Die vorhandene `README.md` lässt die Identität der beiden Personengruppen ausdrücklich offen und behauptet keine genaue Chronologie. Sie beschreibt die Aussage im zweiten Panel als sinngemäße Wiederholung; `DIALOGS.md` hält dagegen ausdrücklich die sprachliche Umkehrung fest. Die hier beschlossene Interpretation gibt den Rahmen für die zeichnerische Ergänzung vor. Die vorhandenen Quelldateien werden durch diesen Dokumentationsauftrag nicht geändert.
+**Abgleich mit der Dokumentation:** `README.md` und `DIALOGS.md` beschreiben die bewusste Wortumkehr als Kern der Pointe. Die README übernimmt die festgelegte Unterscheidung zwischen ursprünglichen Preppern und späteren Überlebenden beziehungsweise Nachfahren anderer Überlebender. Die Dosen-Ergänzung bleibt eine noch nicht umgesetzte Zeichenarbeit; eine genaue Chronologie oder individuelle Biografien werden nicht festgelegt.
 
 ## Abschlusskriterium
 

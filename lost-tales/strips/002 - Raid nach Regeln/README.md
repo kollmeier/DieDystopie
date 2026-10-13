@@ -23,9 +23,9 @@ Nicht vorhanden.
 
 ## Kurzbeschreibung
 ### Panel 1
-Totale: Links der Bunkerausgang in der Wüste, rechts davor 5 Raider. Sie wollen den Bunker angreifen, stehen aber wie eine Warteschlange davor. Die Bunkertür ist geschlossen, daneben ein Schild. Spikes fragt nach, warum sie warten.
+Totale: Links der Bunkerausgang in der Wüste, rechts davor 5 Raider. Sie wollen den Bunker angreifen, stehen aber wie eine Warteschlange davor. Die Bunkertür ist geschlossen, daneben ein Schild. Spikes wird ungeduldig und fragt: „Wie lange warten wir denn noch?“ Die Anpassung der aktuellen Zeichnung an diesen verbindlichen Wortlaut ist noch offen.
 ### Panel 2
-Nah: Links der Bunkerausgang abgeschnitten, rechts davon Preacher und Spikes. Preacher zeigt schweigend auf die Tafel, auf dieser steht „Bitte erst aussteigen lassen. Danke. Ihre Bunkerverwaltung“
+Nah: Links der Bunkerausgang abgeschnitten, rechts davon Preacher und Spikes. Preacher zeigt schweigend auf die Tafel, auf dieser steht „Bitte erst aussteigen lassen. Danke. Ihre Bunkerverwaltung“. Spikes antwortet: „Achso.“ Der Schildwortlaut ist verbindlich; die Angleichung der Zeichnung und die Dialogkorrekturen sind noch offen (siehe `TODO.md`).
 
 ## Pointe
 Selbst Raider lassen sich durch Hinweisschilder leiten. Die eigentlich sinnvolle Regel „erst aussteigen lassen“ verliert sowohl ihren Sinn, wenn niemand aussteigt, und erst recht, wenn man eigentlich sowieso gewaltsam eindringen will.
