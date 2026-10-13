@@ -1,6 +1,6 @@
 # Strip 001 – Woke durch den nuklearen Winter
 
-![Fertiger Strip](strip-001.png)
+![Aktueller zeichnerischer Stand](exports/preview.png)
 
 ## Titel
 Woke durch den nuklearen Winter

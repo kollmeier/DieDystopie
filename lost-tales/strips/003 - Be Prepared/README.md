@@ -1,6 +1,6 @@
 # Strip 003 – Be Prepared
 
-![Fertiger Strip](strip-003.png)
+![Aktueller zeichnerischer Stand](exports/preview.png)
 
 ## Titel
 „Be Prepared“

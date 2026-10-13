@@ -9,23 +9,46 @@ Dieses Dokument ist ein exportierbarer Kontext-Schnappschuss. Die Quelldateien i
 
 ## Projekt und Ton
 
-*Lost Tales from the Dystopia* ist eine satirische Comicstrip-Serie im klassischen Zeitungsstrip-Format. Die Welt heißt **the Dystopia**. Das Ende der Welt ist Alltag; Verwaltungslogik, Regelgläubigkeit, Widersprüche und unbeabsichtigte Konsequenzen erzeugen die Pointen. Die Strips erklären ihre eigene Aussage nicht. Niemand gewinnt moralisch. Leitgedanke: **Das System handelt nicht böse. Es handelt konsequent.**
+*Lost Tales from the Dystopia* ist eine satirische Comicstrip-Serie im klassischen Zeitungsstrip-Format. Die Welt heißt **the Dystopia**. Das Ende der Welt ist Alltag; Verwaltungslogik, Regelgläubigkeit, Widersprüche und unbeabsichtigte Konsequenzen erzeugen die Pointen. Die Strips erklären ihre eigene Aussage nicht. Niemand gewinnt moralisch. Leitgedanke: **Das System handelt nicht böse. Es handelt konsequent.** Die Strips entstehen unabhängig voneinander, ohne Pflicht zu Story-Arcs.
 
 ## Erzählerische Leitplanken
 
-Wenig Detail ist Stilmittel. Figuren sind vor allem funktional; es gibt keine ausgearbeitete Ursprungsgeschichte oder fremde Lore. Die Kritik richtet sich auf Mechanismen statt auf Gruppen. Allgemeine Endzeit-Genremotive sind zulässig, markennahe Übernahmen und Fortführungen fremder Werke nicht. Verbindlich sind `RULES.md`, `THEMES.md` und `LORE-GUARD.md`.
+Figuren sind vor allem funktional; es gibt keine ausgearbeitete Ursprungsgeschichte oder fremde Lore. Die Kritik richtet sich auf Mechanismen statt auf Gruppen. Allgemeine Endzeit-Genremotive sind zulässig, markennahe Übernahmen und Fortführungen fremder Werke nicht. Verbindlich sind `RULES.md`, `THEMES.md` und `LORE-GUARD.md`. Wutbürger-Rhetorik, moralische Regel-Eskalationen, Symbolpolitik und Meme-Kultur werden gezeigt, nicht erklärt. Eskalation darf fatal, aber nicht heroisch, rettend oder auflösend sein.
+
+## Visuelle Gestaltung
+
+Die Handlungsebene verwendet einen flachen, klar lesbaren Comicstil mit definierten Farbflächen und einfachen Highlights und Schatten ohne Farbverläufe. Hintergründe dürfen atmosphärischer und mit zunehmender Tiefe malerischer gestaltet sein, bis hin zu Anklängen an filmisches Matte-Painting. Der Detailgrad folgt der Erzählfunktion: Mehrpanel-Strips priorisieren Figuren und Pointe, atmosphärische Einzelbilder dürfen stärker ausgearbeitet sein. Verbindliche Details: [Visueller Stil und Bildsprache](visual-style.md).
 
 ## Figuren, Gruppen und Orte
 
-**Bunker 9** und seine Wohn-/Verwaltungsbereiche bilden einen wiederkehrenden Schauplatz. Die Schreibweisen für Blockbezeichnungen sind in den Quelldateien noch nicht vollständig vereinheitlicht. An der Oberfläche gibt es unter anderem die Raider-Gruppe mit Preacher, Spikes, Hardrock, Tank und Gordon.
+**Bunker 9** und seine Wohn-/Verwaltungsbereiche bilden einen wiederkehrenden Schauplatz. Die unterschiedlichen Blockbezeichnungen sind unten als offene Frage dokumentiert. An der Oberfläche gibt es unter anderem die Raider-Gruppe um Bunker 9 mit Preacher, Spikes, Hardrock, Tank und Gordon.
 
-Das **stumme Maskottchen** ist ein austauschbares, passives Systemartefakt: Es spricht nie, handelt nicht, widerspricht nicht, rettet niemanden und ist selbst nie die Pointe. Es erscheint etwa auf Schildern und steht für unkritische Bestätigung beziehungsweise positiven Bias. Die konkrete visuelle Referenz liegt im Charakterverzeichnis.
+Nach den Figuren-READMEs führt **Preacher** die Gruppe meist schweigend durch knappe Zeichen und Gesten; er trägt ein Tuch vor dem Mund. **Spikes** ist eher Kämpfertyp und nicht besonders hell; sein Name verweist auf die zackigen Haare. **Hardrock** ist groß, stark, still und wirkt kindlich. **Tank** ist eine mutierte Schildkröte weit jenseits des Teenager-Alters. **Gordons** README enthält noch keine ausgearbeitete Beschreibung; daraus keine Eigenschaften ableiten.
+
+Das **stumme Maskottchen** ist ein austauschbares, passives Systemartefakt: Es spricht nie, handelt nicht, widerspricht nicht, rettet niemanden und ist selbst nie die Pointe. Es erscheint etwa auf Schildern und steht für unkritische Bestätigung beziehungsweise positiven Bias. Die visuelle Referenz in `characters/mascot/README.md` zeigt ein gelbes, daumenförmiges Wesen in großer, kleiner und flacher Logovariante; alle gehören zum selben Konzept. Schildtexte sind nicht automatisch Aussagen des Maskottchens.
 
 ## Vorhandene Strips
 
 - **001 – Woke durch den nuklearen Winter:** Ein Winterlied und seine vermeintlich problematische Aussage treffen auf die Ausgangsregeln von Bunker 9. Frühere Entwürfe mit abweichender fremdwerk-naher Lore sind nicht kanonisch.
 - **002 – Raid nach Regeln:** Eine Raider-Gruppe wartet vor dem Bunkereingang, weil das Schild verlangt, zuerst andere aussteigen zu lassen.
-- **003 – Be Prepared:** Die Pointe spiegelt die Perspektive auf Prepper vor und nach der Apokalypse; ein Schild verweist auf Bunker 9.
+- **003 – Be Prepared:** Die Pointe kehrt den Wortlaut um: „Geil, Apokalypse! Dann hat sich das Preppen ja gelohnt!“ wird zu „Geil, Prepper! Dann hat sich die Apokalypse ja gelohnt!“ (`DIALOGS.md`). Ein Schild verweist auf Bunker 9; die Nummer des gezeigten Bunkers und die Identität der beiden Personengruppen sind nicht verbindlich festgelegt.
+
+## Offene redaktionelle Fragen
+
+- **Weltname:** `README.md` („Welt & Orte“) beschreibt „the Dystopia“ als abstrakten, bewusst generischen Weltnamen; `RULES.md` (§ 2) als konkreten Weltnamen und ausdrücklich nicht als abstrakten Begriff. Welche Bedeutung gelten soll, bleibt offen.
+- **Blockbezeichnung:** `README.md` und `RULES.md` (§ 3) nennen „Block 2/9“; `characters/Bunker 9, Block 2/README.md` nennt den zweiten Wohnblock in Bunker 9 und alternativ „Block 9/2“. Die Zuordnung bzw. Schreibweise ist redaktionell zu klären.
+- **Strip 003:** Die README beschreibt die zweite Aussage als sinngemäße Wiederholung und erläutert eine wiederholte Selbstbestätigung; `DIALOGS.md` betont die bewusste Wortumkehr als pointenrelevant. Das Verhältnis dieser Beschreibungen bleibt offen.
+- **Visuelle Eigenständigkeit:** Die blau-gelbe Kleidung in `characters/Bunker 9, Block 2/README.md` und die fremdwerkbezogene Anspielung in `characters/Raiders/tank/README.md` sind anhand von `RULES.md` (§ 6) und `LORE-GUARD.md` (§§ 3, 6) zu prüfen. Daraus folgt hier keine Kanonentscheidung.
+
+## Ideenpool und nächste Entwürfe
+
+`IDEAS.md` enthält redaktionelle Arbeitsstände, keine automatische Kanonfreigabe. **A** bedeutet zur sofortigen Umsetzung, **B** spätere Umsetzung beziehungsweise gezielte Klärung, **C** Wiedervorlage mit noch offener Pointe oder Dramaturgie. Vor der Ausarbeitung den vollständigen Eintrag und die verbindlichen Projektregeln lesen.
+
+- **A001 – Die KI weiß es besser**, **A002 – Das Update / Die überflüssige Warnung** und **A003 – Naturschutzgebiet: Die Wege** sind redaktionell zur Umsetzung eingeordnet. A002 endet ausschließlich mit dem Zähler ausgefallener Lebenserhaltungssysteme; A003 zeigt ein altes Schild ohne Maskottchen und eine Landschaft ohne erkennbare Wege.
+- **B001 – Der letzte Überlebende / Die Stichwahl** braucht noch eine nachvollziehbare interne Wahlregel. **B002 – Naturschutzgebiet: Das Rebranding** zeigt ein neues Schild mit passivem Maskottchen; großer Publikationsabstand zu A003 ist vorgesehen.
+- **C001 – Der Schlussverkauf**, **C002 – Die Schutzgebühr** und **C003 – Der Weltuntergangstag** brauchen stärkere Schlusswendungen. KI-Folgegags zu A001 bleiben ohne eigene ID, bis sie eine eigenständige Pointe haben.
+
+A-/B-IDs bleiben bei Statuswechseln erhalten und werden nicht wiederverwendet. C-IDs sind vorläufig: Bei Übernahme erhält die Idee die nächste freie ID der Zielkategorie; die alte C-ID wird nicht weiter als Referenz verwendet. Maßgeblich für Details und spätere Statusänderungen ist `IDEAS.md`.
 
 ## Redaktionelle Vorsicht
 
@@ -43,26 +66,43 @@ Automatisch erzeugte Links auf die Quelldateien. Kein eigener Kanon.
 - [RULES](RULES.md)
 - [THEMES](THEMES.md)
 - [LORE-GUARD](LORE-GUARD.md)
+- [Visueller Stil und Bildsprache](visual-style.md)
+
+## Ideenpool (redaktionelle Arbeitsstände)
+
+- [IDEAS – Ideenpool](IDEAS.md)
 
 ## Strips
 
 - [Strip 001 – Woke durch den nuklearen Winter](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/README.md)
+- [Strip 001 – Dialoge der gezeichneten Fassung](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/DIALOGS.md)
+- [Strip 001 – TODO](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/TODO.md)
+- [001 - Woke durch den nuklearen Winter – CHANGES.md](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/CHANGES.md)
+- [001 - Woke durch den nuklearen Winter – Vorschau (preview.png)](strips/001%20-%20Woke%20durch%20den%20nuklearen%20Winter/exports/preview.png)
 - [Strip 002](strips/002%20-%20Raid%20nach%20Regeln/README.md)
+- [Strip 002 – Dialoge](strips/002%20-%20Raid%20nach%20Regeln/DIALOGS.md)
+- [Strip 002 – TODO](strips/002%20-%20Raid%20nach%20Regeln/TODO.md)
+- [002 - Raid nach Regeln – CHANGES.md](strips/002%20-%20Raid%20nach%20Regeln/CHANGES.md)
+- [002 - Raid nach Regeln – Vorschau (preview.png)](strips/002%20-%20Raid%20nach%20Regeln/exports/preview.png)
 - [Strip 003 – Be Prepared](strips/003%20-%20Be%20Prepared/README.md)
-- [Strip 00x](strips/_strip.skeleton/README.md)
+- [Strip 003 – Dialoge der gezeichneten Fassung](strips/003%20-%20Be%20Prepared/DIALOGS.md)
+- [Strip 003 – TODO](strips/003%20-%20Be%20Prepared/TODO.md)
+- [003 - Be Prepared – Vorschau (preview.png)](strips/003%20-%20Be%20Prepared/exports/preview.png)
+- [Strip 004 – Das Update](strips/004%20-%20Das%20Update/README.md)
+- [Strip 004 – Dialoge](strips/004%20-%20Das%20Update/DIALOGS.md)
+- [Strip 004 – Änderungen](strips/004%20-%20Das%20Update/CHANGES.md)
+- [Strip 005 – Naturschutzgebiet: Die Wege](strips/005%20-%20Naturschutzgebiet%20-%20Die%20Wege/README.md)
+- [Strip 005 – Dialoge und Schildtext](strips/005%20-%20Naturschutzgebiet%20-%20Die%20Wege/DIALOGS.md)
+- [Strip 005 – Änderungen](strips/005%20-%20Naturschutzgebiet%20-%20Die%20Wege/CHANGES.md)
 
 ## Figuren
 
 - [Bunker 9, Block 2](characters/Bunker%209%2C%20Block%202/README.md)
-- [Charakter Name](characters/Bunker%209%2C%20Block%202/_character.skeleton/README.md)
 - [Charaktere](characters/README.md)
 - [Raider](characters/Raiders/README.md)
-- [Charakter Name](characters/Raiders/_character.skeleton/README.md)
 - [Charakter Name](characters/Raiders/gordon/README.md)
 - [Hardrock](characters/Raiders/hardrock/README.md)
 - [Preacher](characters/Raiders/preacher/README.md)
 - [Spikes](characters/Raiders/spikes/README.md)
 - [Charakter Name](characters/Raiders/tank/README.md)
-- [Gruppenname](characters/_group.skeleton/README.md)
-- [Charakter Name](characters/_group.skeleton/_character.skeleton/README.md)
 - [Das stumme Maskottchen](characters/mascot/README.md)
