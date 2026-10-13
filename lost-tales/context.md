@@ -41,6 +41,14 @@ Das **stumme Maskottchen** ist ein austauschbares, passives Systemartefakt: Es s
 
 Die Quellenwidersprüche zu Weltname, Blockbezeichnung, Schildtext von Strip 002, Pointe und Personengruppen von Strip 003 sowie Bunkerkleidung und Tanks Fremdwerk-Anspielung sind redaktionell aufgelöst. Die Quelldokumente enthalten die verbindlichen Festlegungen. Bilddateien wurden dadurch nicht geändert: Dialog- und Schildkorrekturen bei Strip 002, die Dosen-Ergänzung bei Strip 003 sowie die Entfernung gelber Trennstreifen aus älteren Kleidungsdarstellungen bleiben offene Zeichenarbeiten. Die allgemeinen Eigenständigkeitsregeln aus `RULES.md` und `LORE-GUARD.md` gelten weiterhin.
 
+Die 13 nummerierten Aufgaben der Strip-TODOs sind mit GitHub-Issues verknüpft:
+
+- **Strip 001:** Mundform des braunhaarigen Bewohners [#18](https://github.com/kollmeier/DieDystopie/issues/18), optionale Mundform des blonden Bewohners [#19](https://github.com/kollmeier/DieDystopie/issues/19), Aushanglesbarkeit [#20](https://github.com/kollmeier/DieDystopie/issues/20).
+- **Strip 002:** Dialogkorrekturen [#21](https://github.com/kollmeier/DieDystopie/issues/21) und [#22](https://github.com/kollmeier/DieDystopie/issues/22), Leserichtung [#23](https://github.com/kollmeier/DieDystopie/issues/23), Schildwortlaut und Lesbarkeit [#24](https://github.com/kollmeier/DieDystopie/issues/24), optionale Prüfung der Wartesituation [#25](https://github.com/kollmeier/DieDystopie/issues/25).
+- **Strip 003:** Dose ergänzen [#26](https://github.com/kollmeier/DieDystopie/issues/26), Fundmoment darstellen [#27](https://github.com/kollmeier/DieDystopie/issues/27), Sprechblasenzuordnung [#28](https://github.com/kollmeier/DieDystopie/issues/28), Zusammenspiel der Bildelemente [#29](https://github.com/kollmeier/DieDystopie/issues/29), optionale Prüfung des Umzugsschilds [#30](https://github.com/kollmeier/DieDystopie/issues/30).
+
+Prioritäten, Begründungen und Abschlusskriterien stehen in den jeweiligen `TODO.md` und verlinkten Issues. Vor einer Bearbeitung den aktuellen Issue- und Quellenstand prüfen; die Verknüpfung ist kein Nachweis einer Umsetzung.
+
 ## Ideenpool und nächste Entwürfe
 
 `IDEAS.md` enthält redaktionelle Arbeitsstände, keine automatische Kanonfreigabe. **A** bedeutet zur sofortigen Umsetzung, **B** spätere Umsetzung beziehungsweise gezielte Klärung, **C** Wiedervorlage mit noch offener Pointe oder Dramaturgie. Vor der Ausarbeitung den vollständigen Eintrag und die verbindlichen Projektregeln lesen.
