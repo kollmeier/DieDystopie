@@ -6,6 +6,8 @@ Grundlage sind die vorhandenen `README.md`, `DIALOGS.md`, die derzeit leere `CHA
 
 ## 1. Dialog in Panel 1 korrigieren
 
+**Issue:** [#21](https://github.com/kollmeier/DieDystopie/issues/21)
+
 **Priorität: Beschlossen**
 
 - [ ] Den aktuellen Sprechblasentext „Worauf warten wir eigentlich?“ durch den verbindlichen Wortlaut aus `DIALOGS.md` ersetzen: **„Wie lange warten wir denn noch?“**
@@ -15,6 +17,8 @@ Grundlage sind die vorhandenen `README.md`, `DIALOGS.md`, die derzeit leere `CHA
 **Gewünschte Wirkung:** Das Warten erscheint als selbstverständlich akzeptierter Ablauf. Dadurch entsteht ein stärkerer Kontrast zwischen dem geplanten gewaltsamen Eindringen und dem selbstverständlichen Befolgen einer Verwaltungsregel. Der verbindliche Wortlaut ist unverändert zu übernehmen.
 
 ## 2. Dialog in Panel 2 korrigieren
+
+**Issue:** [#22](https://github.com/kollmeier/DieDystopie/issues/22)
 
 **Priorität: Beschlossen**
 
@@ -34,6 +38,8 @@ Die Auslassungspunkte bei Preacher dokumentieren sein Schweigen. Sie müssen nic
 
 ## 3. Leserichtung in Panel 2 prüfen
 
+**Issue:** [#23](https://github.com/kollmeier/DieDystopie/issues/23)
+
 **Priorität: Empfohlen**
 
 - [ ] Nach der Dialogkorrektur die Platzierung der neuen Sprechblase prüfen.
@@ -52,6 +58,8 @@ Die neue Sprechblase soll Spikes eindeutig zugeordnet sein und möglichst erst n
 
 ## 4. Schrift auf dem Schild nachschärfen
 
+**Issue:** [#24](https://github.com/kollmeier/DieDystopie/issues/24)
+
 **Priorität: Empfohlen**
 
 - [ ] Die Lesbarkeit des Schildtexts in der vorgesehenen Veröffentlichungsgröße prüfen und die Schrift bei Bedarf gezielt nachschärfen.
@@ -64,6 +72,8 @@ Die neue Sprechblase soll Spikes eindeutig zugeordnet sein und möglichst erst n
 **Gewünschte Wirkung:** Die Regel wird unmittelbar verständlich und trägt die Pointe zuverlässig auch in der Veröffentlichungsgröße. Der individuelle Charakter des Schilds bleibt dabei erhalten.
 
 ## 5. Wartesituation im ersten Panel prüfen
+
+**Issue:** [#25](https://github.com/kollmeier/DieDystopie/issues/25)
 
 **Priorität: Optional**
 
